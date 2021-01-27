@@ -53,3 +53,19 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+
+
+
+#conformOrder{
+	display: none;
+	padding: 100px 100px;
+	
+}
+.custom-class {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 100px;
+    /* color: white; */
+    font-family: arial;
+    box-shadow: 1px 2px 25px #dee8e5;
+}
